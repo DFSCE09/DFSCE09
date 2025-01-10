@@ -1,8 +1,6 @@
 <div align="center">
   
   # Hi there, I'm Daneil Foster👋, an ordinary student <br>
-  ## .<br>
-
 
 ## 🛠️ My Tech Stack
 
@@ -15,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-
  
 ## 📊 GitHub Stats
 
