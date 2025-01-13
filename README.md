@@ -2,6 +2,11 @@
   
   # Hi there, I'm Daneil Foster👋 <br>
 
+## 📊 GitHub Stats
+
+![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=blueberry)
+
+
   
 ## 🛠️ My Tech Stack
 
@@ -19,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="DFSCE09">
 </p>
  
-## 📊 GitHub Stats
 
-![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=blueberry)
 
 
 </div>
