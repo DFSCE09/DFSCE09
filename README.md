@@ -1,8 +1,8 @@
 <div align="center">
   
-  # Hi there, I'm Daneil Foster👋, an ordinary student <br>
-  For the things I strive for
+  # Hi there, I'm Daneil Foster👋 <br>
 
+  
 ## 🛠️ My Tech Stack
 
 <div align="center">
