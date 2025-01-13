@@ -13,9 +13,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  ## Used
 
-![used](https://skillicons.dev/icons?i=mysql,react,r,vim,nginx,cs,ai,ts&perline=6&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="DFSCE09">
+</p>
  
 ## 📊 GitHub Stats
 
