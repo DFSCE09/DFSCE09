@@ -3,7 +3,7 @@
 ![conanai.png](https://github.com/DFSCE09/DFSCE09/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250207200306.jpg)
   
   # Hi there, I'm Daneil Foster👋 <br>
-
+  For a better world and a better planet
 ## 📊 GitHub Stats
 
 ![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=blueberry)
