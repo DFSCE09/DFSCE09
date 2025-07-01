@@ -26,7 +26,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="DFSCE09">
 </p>
  
+---
 
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&theme=tokyonight&hide_border=true" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="54%">
+</p>
+</div>
+<div align="center">
 
 
 </div>
