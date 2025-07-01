@@ -4,11 +4,6 @@
   
   # Hi there, I'm Daneil Foster👋 <br>
   For a better world and a better planet
-## 📊 GitHub Stats
-
-![hanlife02's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=blueberry)
-
-
   
 ## 🛠️ My Tech Stack
 
@@ -22,10 +17,8 @@
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
-
- 
 ---
-
+## 📊 GitHub Stats
 <div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&theme=tokyonight&hide_border=true" width="41%">
