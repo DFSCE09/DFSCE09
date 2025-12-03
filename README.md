@@ -6,7 +6,7 @@ Passionate learner & tech enthusiast | [Status, e.g., student / hobbyist] | Base
 ## 💻 Tech Stack
 - ✅ Proficient: [Python, C++, Git]
 - 🌱 Learning: [Rust, SQL, Web Dev]
-- 📚 To Explore: [TypeScript, ML, Cloud Services]
+  
    <!-- Visual Studio Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <!-- Python -->
