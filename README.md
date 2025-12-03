@@ -1,6 +1,5 @@
 <div align="center">
 
-![conanai.png](https://github.com/DFSCE09/DFSCE09/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250207200306.jpg)
   
   # Hi there, I'm Daneil Foster👋 <br>
   For a better world and a better planet
@@ -19,13 +18,7 @@
 
 ---
 ## 📊 GitHub Stats
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFSCE09&layout=compact&theme=tokyonight&hide_border=true" width="41%">
-  <img src="https://github-readme-stats.vercel.app/api?username=DFSCE09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="54%">
-</p>
-</div>
-<div align="center">
+
 
 
 </div>
