@@ -1,13 +1,13 @@
-<div align="center">
+# 👋 Hello, I’m [Your Username]!
 
-  
-  # Hi there, I'm Daneil Foster👋 <br>
-  For a better world and a better planet
-  
-## 🛠️ My Tech Stack
+## 📝 About Me
+Passionate learner & tech enthusiast | [Status, e.g., student / hobbyist] | Based in [Location, optional] 🌟
 
-<div align="center">
-  <!-- Visual Studio Code -->
+## 💻 Tech Stack
+- ✅ Proficient: [Python, C++, Git]
+- 🌱 Learning: [Rust, SQL, Web Dev]
+- 📚 To Explore: [TypeScript, ML, Cloud Services]
+   <!-- Visual Studio Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -16,13 +16,15 @@
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
+## 🎯 Interests
+[Open Source, Game Dev, Reading, Photography, Music] 🎮📖🎶
+
+## 📞 Contact
+- Email: [your-email@example.com] 📧
+- [Social Platform]: [your-link] 🔗
+
 ---
-## 📊 GitHub Stats
 
-
-
-</div>
-
-<div align="center">
+> ✨ Customize `[ ]` placeholders & add/remove items as needed!
 
 
